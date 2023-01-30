@@ -31,27 +31,27 @@ This consisted in creating visualizations that show the following:
 ![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/Customer_break_down.png)
 
 
-#### 2.) Gender breakdown Find the Number of Rides by Gender - Visualization
+#### <ins> 2.) Gender breakdown Find the Number of Rides by Gender - Visualization <ins> 
 ![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/gender_break_down.png)
 
 
-#### 3.) Checkout Times for Users - Visualization
+#### <ins> 3.) Checkout Times for Users - Visualization <ins> 
 ![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/checkout_times_for_all_users.png)
 
 
-#### 4.) Checkout Times by Gender - Visualization
+#### <ins> 4.) Checkout Times by Gender - Visualization <ins> 
 ![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/checkout_times_by_gender.png)
 
 
-#### 5.) Trips by Weekday for Each Hour - Visualization
+#### <ins> 5.) Trips by Weekday for Each Hour - Visualization <ins> 
 ![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/heatmap_trips_per_hour.png)
 
 
-#### 6.) Trips by Gender (Weekday per Hour) - Visualization
+#### <ins> 6.) Trips by Gender (Weekday per Hour) - Visualization <ins> 
 ![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/heatmap_time_by_gender_weekday-hour.png)
 
 
-#### 7.) Trips by Gender and by usertype by Weekday - Visualization
+#### <ins> 7.) Trips by Gender and by usertype by Weekday - Visualization <ins> 
 ![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/heatmap_user_gender_weekday.png)
 
 
@@ -71,6 +71,7 @@ For future analysis it'd be important to perform the following additional visual
   * A breakdown of customers by date of birth (age) to know better the target market.
   * A breakdown by bikeid to show the bikes that are used the most.
 
-#### Tableau URL:
+#### Tableau URL: 
+Please find below a link to the tableau dashboard for this project.
 [link to dashboard](https://public.tableau.com/views/Bike-SharingDesMoines/Story1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
