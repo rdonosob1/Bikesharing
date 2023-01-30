@@ -25,27 +25,35 @@ This consisted in creating visualizations that show the following:
 * How many trips are taken by the hour for each day of the week, for all riders and genders.
 * A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
 
-The results are shown below
-#### Types of users: Short-Term customers vs Annual subscribers - Visualization
-![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/Customer_break_down.png
+### The results are shown below:
 
-#### Gender breakdown Find the Number of Rides by Gender - Visualization
+#### 1.) Types of users: Short-Term customers vs Annual subscribers - Visualization
+![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/Customer_break_down.png)
+
+
+#### 2.) Gender breakdown Find the Number of Rides by Gender - Visualization
 ![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/gender_break_down.png)
 
-#### Checkout Times for Users - Visualization
+
+#### 3.) Checkout Times for Users - Visualization
 ![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/checkout_times_for_all_users.png)
 
-#### Checkout Times by Gender - Visualization
+
+#### 4.) Checkout Times by Gender - Visualization
 ![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/checkout_times_by_gender.png)
 
-#### Trips by Weekday for Each Hour - Visualization
-![image] (https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/heatmap_trips_per_hour.png)
 
-#### Trips by Gender (Weekday per Hour) - Visualization
+#### 5.) Trips by Weekday for Each Hour - Visualization
+![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/heatmap_trips_per_hour.png)
+
+
+#### 6.) Trips by Gender (Weekday per Hour) - Visualization
 ![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/heatmap_time_by_gender_weekday-hour.png)
 
-#### Trips by Gender and by usertype by Weekday - Visualization
+
+#### 7.) Trips by Gender and by usertype by Weekday - Visualization
 ![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/heatmap_user_gender_weekday.png)
+
 
 ## Summary
 Below you will find a summary of the results found on this analysis.
