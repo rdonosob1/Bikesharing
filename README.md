@@ -27,7 +27,7 @@ This consisted in creating visualizations that show the following:
 
 ### The results are shown below:
 
-#### <u> 1.) Types of users: Short-Term customers vs Annual subscribers - Visualization <u>
+#### <ins> 1.) Types of users: Short-Term customers vs Annual subscribers - Visualization <ins>
 ![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/Customer_break_down.png)
 
 
