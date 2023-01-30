@@ -1,5 +1,5 @@
 # Bike-sharing
-Using Tableau, data visualization software to present a business proposal for a bike-sharing company. 
+Using Tableau, data visualization software to present a business proposal about a bike-sharing company. 
 
 ## Project Overview
 First of all, this project will consist in importing, styling, and portraying data accurately from a New York Citi Bike dataset. Consequently, worksheets, dashboards and stories will be created in order to visualize that data. However, this is only the starting point of the project. After that, more work has to be done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. Therefore, as part of this analysis we will illustrate the following: 
