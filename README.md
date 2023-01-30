@@ -16,7 +16,7 @@ A previous work needed to be performed before the analysis. So, I needed to use 
 
 The following image illustrates the converted values in the "tripduration" column to datetime datatype.
 
-![image]()
+![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/DataFrame%20-%20Deliverable%201.png)
 
 ### Deliverable 2
 This consisted in creating visualizations that show the following:
