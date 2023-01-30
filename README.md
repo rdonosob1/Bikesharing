@@ -27,22 +27,25 @@ This consisted in creating visualizations that show the following:
 
 The results are shown below
 #### Types of users: Short-Term customers vs Annual subscribers - Visualization
+![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/Customer_break_down.png
+
 #### Gender breakdown Find the Number of Rides by Gender - Visualization
+![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/gender_break_down.png)
 
 #### Checkout Times for Users - Visualization
-![image]()
+![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/checkout_times_for_all_users.png)
 
 #### Checkout Times by Gender - Visualization
-![image]()
+![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/checkout_times_by_gender.png)
 
 #### Trips by Weekday for Each Hour - Visualization
-![image]()
+![image] (https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/heatmap_trips_per_hour.png)
 
 #### Trips by Gender (Weekday per Hour) - Visualization
-![image]()
+![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/heatmap_time_by_gender_weekday-hour.png)
 
 #### Trips by Gender and by usertype by Weekday - Visualization
-![image]()
+![image](https://github.com/rdonosob1/Bikesharing/blob/main/Resources/Deliverable%202/heatmap_user_gender_weekday.png)
 
 ## Summary
 Below you will find a summary of the results found on this analysis.
